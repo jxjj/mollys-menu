@@ -6,7 +6,7 @@ function ready(fn) {
   }
 }
 
-function renderPageHeader() {
+function renderLogo() {
 	const h1 = document.querySelector('h1');
 	const [w0, w1, w2, w3, ...rest] = h1.innerText.split(' ');
 
@@ -19,7 +19,7 @@ function renderPageHeader() {
 }
 
 function init() {
-	renderPageHeader();
+	renderLogo();
 }
 
 ready(init);
