@@ -1,0 +1,15 @@
+{
+  "name": "molly-menu",
+  "version": "0.1.0",
+  "description": "First HTML/CSS Assignment",
+  "main": "index.js",
+  "scripts": {
+		"start": "browser-sync start --server --files \"*.html,*.css,*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Johnson <james_johnson@mcad.edu> (https://james.mn)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
