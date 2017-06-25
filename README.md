@@ -4,12 +4,6 @@
 
 A first foray into the world of HTML and CSS.
 
-- Students will explore the structure of a webpage (html, head, body), usage of basic html elements, semantics and hierarchy.
-
-- They will copy/paste CSS and JS into the appropriate parts of the index.html page, seeing how CSS can drastically transform simple markup.
-
-- Finally, they will upload a webpage to their website and share with the class.
-
 ## Author
 
 James Johnson
