@@ -10,6 +10,11 @@
   "author": "James Johnson <james_johnson@mcad.edu> (https://james.mn)",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.18.12"
+    "browser-sync": "^2.18.12",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "dependencies": {
+    "eslint": "^4.5.0"
   }
 }

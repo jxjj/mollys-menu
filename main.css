@@ -13,11 +13,9 @@ body {
   padding: 0;
   padding-bottom: 20rem;
   font-size: 16px;
-  background: url('https://jxjj.github.io/mollys-menu/img/space-invader.svg')
-      no-repeat bottom,
-    url('https://jxjj.github.io/mollys-menu/img/pacman.svg') no-repeat left,
-    url('https://jxjj.github.io/mollys-menu/img/shooter-eat.svg') no-repeat
-      right 15%;
+  background: url('img/space-invader.svg') no-repeat bottom,
+    url('img/pacman.svg') no-repeat left,
+    url('img/shooter-eat.svg') no-repeat right 15%;
 }
 
 :root {
